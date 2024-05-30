@@ -2,7 +2,6 @@ package com.gridnine.testing;
 
 import java.util.Collections;
 import java.util.List;
-import java.util.function.Predicate;
 
 import static com.gridnine.testing.FlightFilters.*;
 
